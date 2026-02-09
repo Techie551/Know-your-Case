@@ -1,0 +1,8 @@
+{
+  "name": "Indian Legal Bot",
+  "description": "An AI-powered chatbot that provides insights into Indian legal situations using the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, and Bharatiya Sakshya Adhiniyam, offering relevant sections, required documents, and case strength assessments.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
